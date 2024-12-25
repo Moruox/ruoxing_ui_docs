@@ -1,0 +1,1 @@
+import{ax as e,c as t,o as n}from"./chunks/framework.DiBBolJB.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/index.md","filePath":"components/index.md","lastUpdated":null}'),a={name:"components/index.md"};function o(s,c,r,d,p,i){return n(),t("div")}const _=e(a,[["render",o]]);export{l as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{aB as e,o as t,c as n}from"./chunks/framework.CPMfaDJ8.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/index.md","filePath":"components/index.md","lastUpdated":null}'),a={name:"components/index.md"};function o(s,c,r,d,p,i){return t(),n("div")}const _=e(a,[["render",o]]);export{l as __pageData,_ as default};
